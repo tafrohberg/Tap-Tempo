@@ -52,4 +52,6 @@ void loop() {
   
   lastButtonState = buttonState;
   
+  delay (1000);
+  
 }
